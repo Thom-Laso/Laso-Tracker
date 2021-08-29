@@ -1,0 +1,39 @@
+body{ 
+	height:100px;
+	width: 500px
+}
+#input-btn{
+    color: rgb(212, 40, 17);
+    background: rgb(129, 208, 253);
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+#tab-btn{
+    color: rgb(212, 40, 17);
+    background: rgb(129, 208, 253);
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+#delete-btn{
+    background: rgb(212, 40, 17);
+    color: rgb(129, 208, 253);
+    height: 40px;
+    width: 130px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+#input-el{
+    height: 10px;
+    width: 100%;
+    border-radius: 20px;
+    background: rgb(179, 235, 122);
+    padding: 30px;
+}

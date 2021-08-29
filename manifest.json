@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name":"Laso Tracker",
+    "action": {
+        "default_popup": "LasoTracker.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
